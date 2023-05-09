@@ -34,3 +34,9 @@ def curve():
   for j in range(200):
     pen.right(1)
     pen.forward(1)
+    
+    #add the main body
+    
+heart()
+text1()
+pen.ht()
