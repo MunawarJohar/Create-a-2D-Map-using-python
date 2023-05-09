@@ -40,3 +40,6 @@ def curve():
 heart()
 text1()
 pen.ht()
+
+
+#adding new code on this
